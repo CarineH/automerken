@@ -1,0 +1,99 @@
+header{
+  background-color: #e8c5c3;
+  width: 100%;
+  height: 100px;
+}
+
+footer{
+  background-color: #c3d3e8;
+  width: 100%;
+  height: 100px;
+}
+
+#Merkentabel{
+  border-color: black;
+  border-style: solid;
+  width: 600px;
+  height: 400px;
+  background-color: #e1f52c;
+}
+
+#BMW{
+  background-color: blue;
+  color: yellow;
+}
+
+#afb-BMW{
+  background-color: #7275d6;
+  color: white;
+}
+
+#Ford{
+  background-color: green;
+  color: blue;
+}
+
+#afb-Ford{
+  background-color: #72d68d;
+  color: white;
+}
+
+#Seat{
+  background-color: yellow;
+  color: red;
+}
+
+#afb-Seat{
+  background-color: #d6d372;
+  color: white;
+}
+
+#Kia{
+  background-color: orange;
+  color: green;
+}
+
+#afb-Kia{
+  background-color: #d6a972;
+  color: white;
+}
+
+#Renault{
+  background-color: black;
+  color: white;
+}
+
+#afb-Renault{
+  background-color: #b1b0b8;
+  color: white;
+}
+
+#Audi{
+  background-color: brown;
+  color: orange;
+}
+
+#afb-Audi{
+  background-color: #d6a765;
+  color: white;
+}
+
+#Tesla{
+  background-color: purple;
+  color: black;
+}
+
+#afb-Tesla{
+  background-color: #c385d4;
+  color: white;
+}
+
+#Fiat{
+  background-color: red;
+  color: purple;
+}
+
+#afb-Fiat{
+  background-color: #db5a5a;
+  color: white;
+}
